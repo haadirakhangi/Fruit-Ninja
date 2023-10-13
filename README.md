@@ -53,4 +53,3 @@ Follow these steps to set up the Fruit Ninja project:
 You are now ready to start working on the Fruit Ninja project. Enjoy coding!
 
 For more information about the project and its usage, please refer to the project's documentation and user guide.
-```
