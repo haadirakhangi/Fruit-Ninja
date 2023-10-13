@@ -1,4 +1,3 @@
-```markdown
 # Fruit-Ninja Setup Guide
 
 This guide will walk you through the necessary steps to set up the Fruit Ninja project on your local development environment.
